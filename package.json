@@ -1,6 +1,6 @@
 {
   "name": "longestwordinstring",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Get longest word in any string easily",
   "main": "index.js",
   "scripts": {
