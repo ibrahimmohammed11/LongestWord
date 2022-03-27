@@ -4,7 +4,7 @@ Get longest word in any string easily
 
 # Installation
 
-`npm i longestword`
+`npm i longestwordinstring`
 
 then...
 

@@ -1,0 +1,22 @@
+{
+  "name": "longestwordinstring",
+  "version": "1.0.0",
+  "description": "Get longest word in any string easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimmohammed11/LongestWord.git"
+  },
+  "keywords": [
+    "longestword"
+  ],
+  "author": "ibrahim mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahimmohammed11/LongestWord/issues"
+  },
+  "homepage": "https://github.com/ibrahimmohammed11/LongestWord#readme"
+}
